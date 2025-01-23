@@ -4,7 +4,7 @@
 
 Me llamo Hansell Chavez Pulache, tengo 19 años, soy de Lima y estoy estudiando Ingeniería de Sistemas. Estoy comprometido con mi aprendizaje y motivado por crecer profesionalmente en el ámbito de la tecnología.
 
-![Pollo a la Brasa](https://www.infobae.com/resizer/v2/CAU42VL7CNGTNNO4M34A627VPM.jpg?auth=a0f726647a783a76ed5a1c2517d473562a84a6a092893855d42d53e204e1e512&smart=true&width=350&height=197&quality=85)
+![Foto de Perfil](https://i.pinimg.com/236x/4a/7e/c4/4a7ec4b8bb3d31c356000c699ba7bfea.jpg)
 
 | Peliculas que he visto en 2024  | Mes |
 | ------------- | ------------- |
