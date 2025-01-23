@@ -12,7 +12,7 @@
 1. [Linkedin](https://www.linkedin.com/in/hansell-chavez-160970338/)
 2. [GitHub](https://github.com/HansellT)
 3. [Instagram](https://www.instagram.com/hanselld1/)
-- Correo personal:[hansellpulache@gamil.com](mailto:hansellpulache@gmail.com)
+- Correo personal: [hansellpulache@gamil.com](mailto:hansellpulache@gmail.com)
 
 ## Tabla comparativa entre HTML y Markdown
 | Característica          | HTML                                        | Markdown                               |
