@@ -10,7 +10,7 @@ Me llamo Hansell Chavez Pulache, tengo 19 años, soy de Lima y estoy estudiando 
 | ------------- | ------------- |
 | Sonic 3  | Diciembre  |
 | BagMan  | Noviembre  |
-| Smile 2  | OCtubre  |
+| Smile 2  | Octubre  |
 
 Mi vision como desarrollador es mejorar constantemente mis habilidades. Además, me gustaria entrar a trabajar a una buena empresa.
 
