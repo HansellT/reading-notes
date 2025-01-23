@@ -1,7 +1,7 @@
 # Hansell Chavez Pulache
 19 años, Lima
 Me llamo Hansell Chavez Pulache, tengo 19 años, soy de Lima y estoy estudiando Ingeniería de Sistemas. Estoy comprometido con mi aprendizaje y motivado por crecer profesionalmente en el ámbito de la tecnología.
-[!Foto de perfil]([https://img.freepik.com/foto-gratis/muelle-madera-sobre-mar-calma-cadena-montanosa-amanecer_181624-9046.jpg](https://img.freepik.com/foto-gratis/ponton-lago-al-atardecer-generado-ia_268835-11172.jpg))
+![Foto de perfil]([https://img.freepik.com/foto-gratis/muelle-madera-sobre-mar-calma-cadena-montanosa-amanecer_181624-9046.jpg](https://img.freepik.com/foto-gratis/ponton-lago-al-atardecer-generado-ia_268835-11172.jpg))
 | Peliculas que he visto en 2024  | Mes |
 | ------------- | ------------- |
 | Sonic 3  | Diciembre  |
