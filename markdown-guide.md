@@ -17,7 +17,7 @@
 ## Tabla comparativa entre HTML y Markdown
 | Característica          | HTML                                        | Markdown                               |
 |-------------------------|---------------------------------------------|---------------------------------------|
-| Sintaxis                | Más compleja, requiere etiquetas (<>)       | Simple y legible, usa símbolos básicos |
+| Sintaxis                | Más compleja, requiere etiquetas        | Simple y legible, usa símbolos básicos |
 | Uso principal           | Desarrollo web                             | Documentación, blogs, y texto rápido  |
 | Curva de aprendizaje    | Más pronunciada                           | Muy sencilla                          |
 | Renderizado             | Necesita navegador o servidor web          | Renderizado inmediato en plataformas  |
