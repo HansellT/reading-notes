@@ -27,5 +27,5 @@
 
 3. **¿Qué comando usarías en la terminal para listar todos los archivos, incluidos los archivos ocultos, en un directorio de Linux o macOS? Explica qué significan los parámetros utilizados en el comando.**
    
-   *Para mostrar todos los archivos incluidos los archivos ocultos usaria el comando "ls -a". El ls sirve para listar el contenido de un directorio y el -a hace referencia a "all" que significa todo lo que indica que se deben incluir todos los archivos, incluidos los archivos ocultos*
+   *Para mostrar todos los archivos incluidos los archivos ocultos usaria el comando "ls -a". El ls sirve para listar el contenido de un directorio y el -a hace referencia a "all" que significa todo lo que indica que se deben incluir todos los archivos, incluidos los archivos ocultos.*
    
