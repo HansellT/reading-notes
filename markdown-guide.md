@@ -15,6 +15,7 @@
 - Correo personal: [hansellpulache@gamil.com](mailto:hansellpulache@gmail.com)
 
 ## Tabla comparativa entre HTML y Markdown
+
 | Característica          | HTML                                        | Markdown                               |
 |-------------------------|---------------------------------------------|---------------------------------------|
 | Sintaxis                | Más compleja, requiere etiquetas        | Simple y legible, usa símbolos básicos |
