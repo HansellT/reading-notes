@@ -8,9 +8,9 @@
 
 - *Zero-shot prompting no proporciona ejemplos al modelo y es útil cuando se espera que el modelo interprete de forma directa instrucciones claras y generales.*
 
-*One-shot prompting incluye un ejemplo para establecer el contexto o formato deseado, siendo efectivo para tareas con estructuras específicas.*
+- *One-shot prompting incluye un ejemplo para establecer el contexto o formato deseado, siendo efectivo para tareas con estructuras específicas.*
 
-*Few-shot prompting presenta varios ejemplos, ayudando al modelo a entender patrones complejos o sutiles y es ideal para tareas que requieren mayor contexto o precisión.*
+- *Few-shot prompting presenta varios ejemplos, ayudando al modelo a entender patrones complejos o sutiles y es ideal para tareas que requieren mayor contexto o precisión.*
 
 ## 3. ¿Cómo puede la claridad y especificidad en la formulación de un prompt influir en la calidad de las respuestas generadas por un modelo de IA?
 
