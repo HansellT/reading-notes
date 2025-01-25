@@ -10,7 +10,7 @@
 
 ## 3. ¿Cuáles son las tres formas de insertar CSS en tu proyecto?
 
-- *Puedes insertar CSS de tres formas: en línea (dentro del atributo "style" en un elemento HTML), interno (en una etiqueta "<style>" en el "<head>" del HTML), y externo (en un archivo .css enlazado con una etiqueta "<link>").*
+- *Puedes insertar CSS de tres formas: en línea (dentro del atributo "style" en un elemento HTML), interno (en una etiqueta "<style>" en el "< head >" del HTML), y externo (en un archivo .css enlazado con una etiqueta "< link >").*
 
 ## 4. Escribe un ejemplo de una regla CSS que daría texto rojo a todos los elementos "<p>"
 
