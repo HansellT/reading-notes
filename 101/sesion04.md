@@ -19,3 +19,6 @@
 ## 4. ¿Cuál es la importancia del prompting iterativo en el refinamiento de las respuestas generadas por un modelo de IA?
 
 - *El prompting iterativo permite ajustar progresivamente las entradas para mejorar la calidad de las respuestas. A través de ciclos de prueba y error, el usuario puede identificar limitaciones en el modelo, corregir la dirección de las respuestas y alcanzar resultados más precisos y relevantes.*
+
+
+- [Inicio](https://github.com/HansellT/reading-notes/blob/main/README.md)
