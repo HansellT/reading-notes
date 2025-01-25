@@ -6,7 +6,7 @@
 
 ## 2-¿Cuáles son las 3 partes principales de un elemento HTML? ##
 
-- *Un elemento HTML tiene tres partes: la etiqueta de apertura (como <p>), el contenido dentro del elemento, y la etiqueta de cierre (como </p>).*
+- *Un elemento HTML tiene tres partes: la etiqueta de apertura (como < p >), el contenido dentro del elemento, y la etiqueta de cierre (como </ p>).*
 
 ## 3- ¿Cómo le das información extra a un elemento? ##
 
@@ -14,4 +14,4 @@
 
 ## 4-¿Por qué es importante usar etiquetas semánticas? ##
 
-- *as etiquetas semánticas son importantes porque mejoran la accesibilidad y facilitan la comprensión del contenido tanto para navegadores como para desarrolladores.*
+- *Las etiquetas semánticas son importantes porque mejoran la accesibilidad y facilitan la comprensión del contenido tanto para navegadores como para desarrolladores.*
