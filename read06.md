@@ -20,7 +20,7 @@
    
    - **touch new-project/newfile.md**: *Esta actualizando el archivo newfile del directorio new-project.*
    
-   - **cd ..**: *Para regresar dos veces*
+   - **cd ..**: *Para regresar.*
    
    - **ls projects/new-project**: *Para ver todo lo que hay en new-project.*
    
