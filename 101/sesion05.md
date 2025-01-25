@@ -6,7 +6,7 @@
 
 ## 2. ¿Cómo se crea un vínculo con Markdown?
 
-- *Un vínculo se crea usando el formato "[ texto del enlace ]( URL )". Por ejemplo, "[ Instagram ]( https://www.instagram.com )" genera un enlace con el texto "Instagram".*
+- *Un vínculo se crea usando el formato "[ texto del enlace ]( URL )". Por ejemplo, "[ Instagram ]( https ://www.instagram.com )" genera un enlace con el texto "Instagram".*
 
 ## 3. ¿Qué símbolo es la mejor práctica para énfasis en negrita o cursiva?
 
