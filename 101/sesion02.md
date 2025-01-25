@@ -15,3 +15,6 @@
 ## 4-¿Por qué es importante usar etiquetas semánticas? ##
 
 - *Las etiquetas semánticas son importantes porque mejoran la accesibilidad y facilitan la comprensión del contenido tanto para navegadores como para desarrolladores.*
+
+
+- [Inicio](https://github.com/HansellT/reading-notes/blob/main/README.md)
