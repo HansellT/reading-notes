@@ -19,3 +19,5 @@
 ## Contribución de CSS al desarrollo del wireframe en una página web
 
 - *CSS juega un papel fundamental en la transición de un wireframe a una página web desarrollada, ya que permite aplicar estilos y diseño visual a la estructura básica definida en el wireframe. A través de CSS, se pueden ajustar colores, tipografías, espaciamientos y otros aspectos estéticos, asegurando que el producto final no solo funcione correctamente, sino que también sea visualmente atractivo y alineado con la identidad de la marca.*
+
+- [Inicio](https://github.com/HansellT/reading-notes/blob/main/README.md)
