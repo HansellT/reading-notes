@@ -7,7 +7,7 @@
 ## `¿Qué es una “function” (Función) de JavaScript?`
 
 - *Una función en JavaScript es un bloque de código reutilizable que se define una vez y se puede ejecutar múltiples veces. Se declara con la palabra clave `function`, seguida de un nombre, parámetros opcionales y un cuerpo de código. Ejemplo:* 
- 
+
   ```javascript
   function saludar(nombre) {
       return `Hola, ${nombre}!`;
@@ -20,6 +20,9 @@
 
 ## ¿Qué método usarías para agregar un elemento al final de un array y cómo se utiliza?
 
-- *El método push() se usa para agregar un elemento al final de un array en JavaScript.*
+- *El método push() se usa para agregar un elemento al final de un array en JavaScript. Ejemplo:*
 
+    let colores = ["rojo", "azul"];
+    colores.push("verde");
+    console.log(colores); // Output: ["rojo", "azul", "verde"]
 
