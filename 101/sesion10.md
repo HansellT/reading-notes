@@ -23,6 +23,9 @@
 - *El método push() se usa para agregar un elemento al final de un array en JavaScript. Ejemplo:*
 
     let colores = ["rojo", "azul"];
+
     colores.push("verde");
+
     console.log(colores); // Output: ["rojo", "azul", "verde"]
+    
 
