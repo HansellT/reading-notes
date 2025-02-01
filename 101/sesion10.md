@@ -9,9 +9,13 @@
 - *Una función en JavaScript es un bloque de código reutilizable que se define una vez y se puede ejecutar múltiples veces. Se declara con la palabra clave `function`, seguida de un nombre, parámetros opcionales y un cuerpo de código. Ejemplo:* 
 
   ```javascript
+
   function saludar(nombre) {
+
       return `Hola, ${nombre}!`;
+
   }
+  
   console.log(saludar("Hansell")); // Output: Hola, Hansell!
 
 ## ¿Cuántas veces se ejecutará un bucle “while”?
